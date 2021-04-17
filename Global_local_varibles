@@ -1,0 +1,9 @@
+#Important Points related to Global & Local Varibles.
+#1.The global Variable is created when the program starts and destryoed when the program ends
+#2.A local variable in local scope is created when the function is called and destroyed when the function returns
+#3.Local scopes cannot use other local scope's variable but global varibles can be read in a LOCAL SCOPE.
+#4.Local scopes lets the functions to be used as black boxes.
+#5.If there's an assignment statement for a variable in a function, that is a local variable.
+
+
+#Important- The point of scope is to isolate codes so that the cause of bugs is limited to a particular area of the program
